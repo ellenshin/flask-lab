@@ -7,10 +7,12 @@ p {text-align:center;}
 p1{
    font-size: 200%;
    font-weight: bold;
-   color:#556B2F
+   color:#556B2F;
+   text-align:center;
    }
 p2{
-   font-size: 150%
+   font-size: 150%;
+   text-align: center;
    }
 
-body{background-color:pink;}
+body{background-color:pink; border-style:dotted; border-color:white; text-align:center;}
